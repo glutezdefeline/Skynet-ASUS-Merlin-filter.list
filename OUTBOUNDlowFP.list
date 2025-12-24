@@ -1,0 +1,15 @@
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://iplists.firehol.org/files/dshield.netset
+https://iplists.firehol.org/files/et_block.netset
+https://iplists.firehol.org/files/et_compromised.ipset
+https://iplists.firehol.org/files/spamhaus_drop.netset
+https://iplists.firehol.org/files/spamhaus_edrop.netset
+https://iplists.firehol.org/files/malc0de.ipset
+https://iplists.firehol.org/files/urlvir.ipset
+https://sigs.interserver.net/iprbl.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
+https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/greensnow.ipset
+https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/ciarmy.ipset
+https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
